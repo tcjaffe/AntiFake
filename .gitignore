@@ -1,3 +1,4 @@
 *.pyc
 .vscode
+saved_models/default/synthesizer.pt
 temp_results/*
